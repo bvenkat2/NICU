@@ -1,0 +1,735 @@
+List of problems and codes
+CERNER!NKP No Chronic Problems
+HLI.PFT!ABjfrwDvkAhN1mKo2I5XRA Intestinal perforation
+HLI.PFT!AHi9DQD2sIYQn4VIrBELCg Need for prophylactic vaccination and inoculation against respiratory syncytial virus (RSV)
+HLI.PFT!P3BTFgEuJcKUo4vGrBEBUg Preterm infant 1250-1499 grams
+HLI.PFT!aIP95gEuNCOn8IpJrBEBUg Pediatric BMI less than 5th percentile
+HLI.PFT!aIP95gEuNCOn8IqdrBEBUg Pediatric BMI 85th percentile to less than 95th percentile
+HLI.PFT!aIP95gEuNCOn8IqprBEBUg Pediatric BMI greater than or equal to 95th percentile
+SNOMED!1021000119106 Peripherally inserted central venous catheter in situ
+SNOMED!102506008 Well child
+SNOMED!103735009 Palliative care
+SNOMED!10509002 Acute bronchitis
+SNOMED!1051000119103 Acquired penile adhesion
+SNOMED!105593004 Electrolyte imbalance
+SNOMED!105986008 Skeletal dysplasia
+SNOMED!109350007 Lipoma of trunk
+SNOMED!109364007 Left pneumothorax
+SNOMED!109548000 Bilateral cleft of primary palate
+SNOMED!109622003 Gingival cleft
+SNOMED!109995007 Myelodysplastic syndrome (clinical)
+SNOMED!110067005 Simple laceration of scalp
+SNOMED!11092001 Sinus tachycardia
+SNOMED!111246005 Arthrogryposis
+SNOMED!111293003 Venous thrombosis
+SNOMED!111323005 TAPVC - Total anomalous pulmonary venous connection
+SNOMED!111583006 Leukocytosis
+SNOMED!111591002 Hypertrophy of adenoids
+SNOMED!11316005 Vocal cord granuloma
+SNOMED!11399002 Pulmonary hypertensive arterial disease
+SNOMED!115329001 MRSA
+SNOMED!117089007 Administration of Respiratory Syncytial virus immune globulin, human
+SNOMED!118188004 Finding of neonate
+SNOMED!11934000 Ptosis of eyelid
+SNOMED!123572006 Congenital anomaly of rib
+SNOMED!124111000119102 Retinopathy of prematurity stage 0
+SNOMED!124323007 Deficiency of glycerate kinase
+SNOMED!125605004 Fracture of bone
+SNOMED!126944002 Brain damage due to hypoxia
+SNOMED!126945001 Perinatal anoxic-ischemic brain injury
+SNOMED!127062003 Polycythemia
+SNOMED!128053003 Deep venous thrombosis
+SNOMED!12818004 Ureterocele
+SNOMED!128188000 Cerebral palsy
+SNOMED!128241005 Inflammatory disorder of liver
+SNOMED!128477000 Abscess
+SNOMED!128545000 Hernia of abdominal wall
+SNOMED!128613002 Seizure disorder
+SNOMED!129127001 Infection of ear
+SNOMED!129679001 Computed tomography result abnormal
+SNOMED!129845004 At risk for imbalanced nutrition, less than body requirements
+SNOMED!129903002 Ineffective infant feeding pattern
+SNOMED!13045009 Anisocoria
+SNOMED!13094009 Apnea in the newborn
+SNOMED!13213009 Congenital heart disease
+SNOMED!133933007 Newborn
+SNOMED!134288007 Blocked central line
+SNOMED!13629008 Hypothermia of newborn
+SNOMED!13837003 Inborn errors of metabolism screen
+SNOMED!140031000119103 Acute kidney injury (nontraumatic)
+SNOMED!14140009 Hyperkalemia
+SNOMED!14447001 Dandy-Walker malformation
+SNOMED!14760008 Constipation
+SNOMED!14783006 Hyperbilirubinemia
+SNOMED!14821001 Situs ambiguus
+SNOMED!14886009 Abdominal heart
+SNOMED!14919007 Ranula
+SNOMED!15188001 Hearing loss
+SNOMED!15220000 Laboratory test
+SNOMED!15241006 Disorder of autonomic nervous system
+SNOMED!156329007 Seborrheic dermatitis of scalp
+SNOMED!15750001000119103 Baby premature 28 weeks
+SNOMED!15911003 Cow's milk protein sensitivity
+SNOMED!160245001 No current problems or disability
+SNOMED!16026008 Hypoplasia of the cerebellum
+SNOMED!160316001 FH: Blood disorder
+SNOMED!160324006 Family history of mental disorder
+SNOMED!160871009 Child in foster care
+SNOMED!161152002 Social problem
+SNOMED!161689000 H/O: gastrostomy
+SNOMED!161694000 H/O: CSF drainage device
+SNOMED!161838002 Infant feeding problem
+SNOMED!161840007 Feeding problem due to illness
+SNOMED!162068007 Abdomen feels distended
+SNOMED!16207008 Postmature infancy
+SNOMED!162076009 Excessive upper gastrointestinal gas
+SNOMED!162371009 Nosebleed/epistaxis symptom
+SNOMED!162375000 Snoring symptoms
+SNOMED!16294009 Splenomegaly
+SNOMED!16297002 Congenital hydronephrosis
+SNOMED!163650000 O/E - muscle tone spastic
+SNOMED!16402000 Sickle cell trait
+SNOMED!165346000 Laboratory test result abnormal
+SNOMED!165474009 Microcytosis
+SNOMED!165517008 Neutropenia
+SNOMED!165518003 Neutrophilia
+SNOMED!16596007 Esotropia
+SNOMED!166669000 AST/SGOT level raised
+SNOMED!166717003 Serum creatinine raised
+SNOMED!16838000 Mediastinal emphysema
+SNOMED!169083003 MRI scan abnormal
+SNOMED!169826009 Single live birth
+SNOMED!169836001 Birth of child
+SNOMED!16997008 Neonatal agitation
+SNOMED!17024001 Aortopulmonary window
+SNOMED!171191008 Cystic fibrosis screening
+SNOMED!17122004 Deletion of short arm of chromosome 4
+SNOMED!171259000 Not up to date with immunizations
+SNOMED!17190001 Congenital diaphragmatic hernia
+SNOMED!17338001 Ventricular premature beats
+SNOMED!17450006 Myoclonus
+SNOMED!17771000119103 Low lumbar myelomeningocele
+SNOMED!17849001 Respiratory condition of fetus OR newborn
+SNOMED!18165001 Jaundice
+SNOMED!1829003 Microcephalus
+SNOMED!183655000 Transplant follow-up
+SNOMED!18389004 Microcolon
+SNOMED!18735004 Amniocele
+SNOMED!190268003 Congenital hypothyroidism
+SNOMED!190602008 Moderate protein-calorie malnutrition (weight for age 60-74% of standard)
+SNOMED!190603003 Mild protein-calorie malnutrition (weight for age 75-89% of standard)
+SNOMED!190905008 Cystic fibrosis
+SNOMED!191187006 Alpha trait thalassemia
+SNOMED!192631000 Pica of infancy and childhood
+SNOMED!193022009 Localization-related(focal)(partial)idiopathic epilepsy and epileptic syndromes with seizures of localized onset
+SNOMED!19410003 Macrocephaly
+SNOMED!194102001 Intermittent alternating esotropia
+SNOMED!194104000 Intermittent alternating exotropia
+SNOMED!194287004 Recurrent acute otitis media
+SNOMED!194424005 Sensorineural hearing loss, bilateral
+SNOMED!194970009 Pericardial effusion - noninflammatory
+SNOMED!194997002 Pulmonary stenosis, non-rheumatic
+SNOMED!195147006 Atrial thrombosis
+SNOMED!195967001 Asthma
+SNOMED!197262004 Fecal fistula
+SNOMED!197927001 Recurrent urinary tract infection
+SNOMED!199154009 Maternal syphilis during pregnancy, childbirth and the puerperium
+SNOMED!19943007 Cirrhosis of liver
+SNOMED!199612005 Small-for-dates baby
+SNOMED!199616008 Large for gestation age fetus
+SNOMED!201281002 Café au lait spots
+SNOMED!20165001 Hyperphosphatemia
+SNOMED!202606004 Clicking hip
+SNOMED!204299009 Dextrotransposition of aorta
+SNOMED!204315000 Ostium secundum type atrial septal defect
+SNOMED!204317008 Patent foramen ovale
+SNOMED!204659003 Esophageal atresia with tracheo-esophageal fistula
+SNOMED!204723001 Congenital stricture of anus
+SNOMED!204731006 Imperforate anus
+SNOMED!204739008 Hirschsprung's disease
+SNOMED!204878001 Cryptorchism
+SNOMED!204949001 Renal dysplasia
+SNOMED!205063003 Congenital genu recurvatum
+SNOMED!205109004 Congenital abduction contracture of hip
+SNOMED!20573003 Ineffective breathing pattern
+SNOMED!205768003 Complete situs inversus with dextrocardia
+SNOMED!205788004 Fetal alcohol syndrome
+SNOMED!205791004 Fetal or neonatal effect of maternal use of alcohol                                                                                                                                                                                     19-OCT-2016 13:19:47<$>
+SNOMED!206005002 Fetal or neonatal effect of maternal infection                                                                                                                                                                                          19-OCT-2016 13:17:44<$>
+SNOMED!206292002 Meconium aspiration syndrome
+SNOMED!206395003 Intraventricular (nontraumatic) hemorrhage, grade 1, of fetus and newborn
+SNOMED!206396002 Intraventricular (nontraumatic) hemorrhage, grade 2, of fetus and newborn
+SNOMED!206397006 Intraventricular (nontraumatic) hemorrhage, grade 3, of fetus and newborn
+SNOMED!206417009 Intracranial nontraumatic hemorrhage of fetus and newborn
+SNOMED!206419007 Cerebellar (nontraumatic) and posterior fossa hemorrhage of fetus and newborn
+SNOMED!206525008 Neonatal necrotizing enterocolitis
+SNOMED!206528005 Meconium plug
+SNOMED!206572008 Neonatal withdrawal symptoms from maternal use of drugs of addiction
+SNOMED!206588008 Congenital hypertonia
+SNOMED!206597007 Persistent fetal circulation
+SNOMED!20944008 Congenital postural scoliosis
+SNOMED!21111006 Complete trisomy 13 syndrome
+SNOMED!211361007 Insect bite, nonvenomous, lower leg
+SNOMED!212400009 Scalp injury
+SNOMED!212966005 Effects of hunger
+SNOMED!21321009 Ambiguous genitalia
+SNOMED!213257006 Generally unwell
+SNOMED!213299007 Postoperative pain
+SNOMED!21522001 Abdominal pain
+SNOMED!21584002 Syndrome of infant of diabetic mother
+SNOMED!21639008 Hypervolemia
+SNOMED!217082002 Accidental fall
+SNOMED!21850008 Lateral curvatures of skull unequal
+SNOMED!22033007 Fetal growth restriction
+SNOMED!22066006 Strabismus
+SNOMED!221360009 Muscle spasticity
+SNOMED!22247000 Dehiscence of surgical wound
+SNOMED!22253000 Pain
+SNOMED!224958001 Global developmental delay
+SNOMED!225587003 Gastric reflux
+SNOMED!22668006 SGS - Subglottic stenosis
+SNOMED!228147004 Gross motor impairment
+SNOMED!228524006 Exposed to tobacco smoke at home
+SNOMED!229721007 Speech delay
+SNOMED!230690007 CVA - Cerebrovascular accident
+SNOMED!230745008 Hydrocephalus
+SNOMED!230790004 Choroid plexus cyst
+SNOMED!231473004 Benzodiazepine dependence
+SNOMED!23205009 Transient neonatal thrombocytopenia
+SNOMED!23276006 Ventricular hemorrhage
+SNOMED!233604007 Pneumonia
+SNOMED!233815004 Persistent pulmonary HTN of newborn
+SNOMED!234062003 Pulmonary vein stenosis
+SNOMED!234095009 Lymphatic malformation
+SNOMED!234141001 AV - Congenital arteriovenous anomaly
+SNOMED!234347009 Anemia of chronic disease
+SNOMED!234349007 Microcytic anemia
+SNOMED!234634006 Chromosome 18 syndromes and antibody deficiency
+SNOMED!235222001 Attention to gastrostomy
+SNOMED!235595009 Gastroesophageal reflux disease
+SNOMED!235675006 Gastroparesis syndrome
+SNOMED!236021006 Right inguinal hernia
+SNOMED!236022004 LIH - Left inguinal hernia
+SNOMED!236037000 Incisional hernia
+SNOMED!236053002 Sliding hiatus hernia
+SNOMED!236425005 Chronic renal impairment
+SNOMED!237751000 Congenital adrenal hyperplasia
+SNOMED!238028008 Sphingolipidosis
+SNOMED!238149007 Systemic inflammatory response syndrome
+SNOMED!240301009 Breastfeeding problem in the newborn
+SNOMED!240530001 Epstein-Barr virus disease
+SNOMED!240711004 Diaper candidiasis
+SNOMED!24079001 Atopic dermatitis
+SNOMED!248573009 Noisy respiration
+SNOMED!248866005 Labial adhesions
+SNOMED!24911006 Perinatal jaundice from excessive hemolysis
+SNOMED!2492009 Nutritional disorder
+SNOMED!249488009 Gagging
+SNOMED!249489001 Choking
+SNOMED!249647002 Weak anal sphincter
+SNOMED!249808002 Equinovarus deformity of foot
+SNOMED!249944006 Monoparesis - arm
+SNOMED!249966004 Spasmodic movement
+SNOMED!253148005 Miller Dieker syndrome
+SNOMED!253160006 Colpocephaly
+SNOMED!253416000 Complete atrioventricular septal defect
+SNOMED!253631001 PPS - Peripheral pulmonary stenosis
+SNOMED!253737007 Congenital laryngomalacia
+SNOMED!253754004 Cyst of tongue
+SNOMED!253849004 Congenital buried penis
+SNOMED!253853002 Preputial adhesions
+SNOMED!253900005 PUV - Posterior urethral valve
+SNOMED!253978002 Dysmorphic features
+SNOMED!254024005 Positional plagiocephaly
+SNOMED!25896009 Congenital atresia of ileum
+SNOMED!26079004 Tremor
+SNOMED!260912008 Abnormal involuntary movement
+SNOMED!26098002 Microcornea
+SNOMED!26179002 Congenital atresia of esophagus
+SNOMED!263172003 Fracture of mandible
+SNOMED!266096002 Methicillin resistant Staphylococcus aureus infection
+SNOMED!26629001 Short bowel syndrome
+SNOMED!266433003 Gastro-esophageal reflux disease with esophagitis
+SNOMED!266434009 Esophageal dysmotility
+SNOMED!267024001 Abnormal weight loss
+SNOMED!267038008 Edema
+SNOMED!267078001 Observation of involuntary movement
+SNOMED!268228006 Undescended testes - bilateral
+SNOMED!268363004 Auditory/vestibular test abnormal
+SNOMED!268481000 Child health care
+SNOMED!268549006 Endocrine/metabolic screening
+SNOMED!268868001 Born very premature
+SNOMED!2707005 Necrotizing enterocolitis in fetus OR newborn
+SNOMED!271737000 Anemia
+SNOMED!271739002 Wax in ear canal
+SNOMED!271807003 Eruption
+SNOMED!271823003 Tachypnea
+SNOMED!271825005 Respiratory distress
+SNOMED!271864008 Mucus in faeces
+SNOMED!272040008 Wheezing symptom
+SNOMED!27405005 Central sleep apnea syndrome
+SNOMED!274521009 EEG abnormal
+SNOMED!274535006 Abnormal findings on diagnostic imaging of skull and head
+SNOMED!274625009 Delayed developmental milestone
+SNOMED!274770006 Alkaline phosphatase raised
+SNOMED!275142008 Sick child
+SNOMED!275976000 Developmental handicap screening
+SNOMED!27637000 Right sided heart
+SNOMED!276508000 Hydrops fetalis
+SNOMED!276509008 Non-immune hydrops fetalis
+SNOMED!276544005 Apnea of prematurity
+SNOMED!276549000 Newborn physiological jaundice
+SNOMED!276556006 Effect of maternal gestational diabetes on infant
+SNOMED!276610007 Low birth weight infant
+SNOMED!276612004 Extremely low birth weight infant
+SNOMED!276658003 Extreme immaturity
+SNOMED!276669000 Bacterial sepsis of newborn
+SNOMED!276687002 Conjugated hyperbilirubinemia in infancy
+SNOMED!276695003 Neonatal aspiration pneumonia
+SNOMED!276703007 Osteopenia of prematurity
+SNOMED!276717003 Poor feeding of newborn
+SNOMED!27742002 Vertebral anomalies/dysgenesis, anal atresia, tracheo-esophageal fistula, esophageal atresia, renal anomalies, radial dysplasia (VATER) association
+SNOMED!277486008 Pulmonary hypoplasia associated with short gestation
+SNOMED!278287000 Left hemiparesis
+SNOMED!27885002 Complete atrioventricular block
+SNOMED!278927005 Neonatal aspiration of meconium
+SNOMED!278978003 Well baby
+SNOMED!28030000 Twin birth
+SNOMED!28055006 West syndrome
+SNOMED!281561000 Sacrococcygeal teratoma
+SNOMED!281578009 Perinatal asphyxia
+SNOMED!281579001 Perinatal hypoxia
+SNOMED!281610001 Neonatal hyperbilirubinemia
+SNOMED!281794004 Viral upper respiratory tract infection
+SNOMED!28192008 Enterovirus meningitis
+SNOMED!28293008 Hereditary factor VIII deficiency disease
+SNOMED!289316000 Umbilical cord problem
+SNOMED!289449008 Foetal problem
+SNOMED!28998008 Retinal hemorrhage
+SNOMED!2901004 Melena
+SNOMED!29738008 Proteinuria
+SNOMED!29753000 Focal seizure
+SNOMED!298282001 Spastic quadriparesis
+SNOMED!299233007 Deformity of hip joint
+SNOMED!299698007 Feeding poor
+SNOMED!29980002 Congenital malrotation of intestine
+SNOMED!300228004 Hearing problem
+SNOMED!30171000 Disorder of adrenal gland
+SNOMED!302108003 Tracheostomy in situ
+SNOMED!302109006 Gastrostomy present
+SNOMED!302111002 Ileostomy present
+SNOMED!302174000 Congenital abnormality of iris and ciliary body
+SNOMED!302215000 Thrombocytopenic disorder
+SNOMED!302838006 Dermal cellular nevus
+SNOMED!302866003 Hypoglycemia
+SNOMED!30288003 Ventricular septal defect
+SNOMED!302912005 Vocal cord palsy
+SNOMED!304068004 Bilateral cleft lip
+SNOMED!304253006 Not for resuscitation
+SNOMED!30746006 Lymphadenopathy
+SNOMED!30828007 Infant showing no response to resuscitation
+SNOMED!308409008 Child hearing screening failure
+SNOMED!310592002 Pregnancy prolonged - 41 weeks
+SNOMED!310661005 Premature infant 28-37 weeks
+SNOMED!310670008 Hydronephrosis with ureteropelvic junction obstruction
+SNOMED!311897005 Sacral dimple
+SNOMED!312851005 Screening for disorder
+SNOMED!312975006 Microalbuminuria
+SNOMED!313203003 Hearing test abnormal
+SNOMED!313215004 History of physical abuse
+SNOMED!31323000 Severe combined immunodeficiency disease
+SNOMED!313307000 Epileptic seizures
+SNOMED!314512009 Hemangioma of eyelid
+SNOMED!31515003 Hypoventilation
+SNOMED!31958005 Developmental testing and assessment
+SNOMED!32390006 Panhypopituitarism
+SNOMED!32398004 Bronchitis
+SNOMED!32895009 Hereditary disease
+SNOMED!3350001000004106 Family history of viral hepatitis type C
+SNOMED!33534005 Congenital bowing of femur
+SNOMED!33688009 Cholestasis
+SNOMED!34111000 Congenital abnormality of hand and digits
+SNOMED!34225008 Idiopathic hypercalcemia of infancy
+SNOMED!34681009 Perinatal respiratory distress
+SNOMED!34742003 PHT - Portal hypertension
+SNOMED!35486000 Subdural hemorrhage
+SNOMED!35688006 Medical care complication
+SNOMED!360339005 Congenital hyperinsulinism
+SNOMED!360481003 Common atrioventricular canal
+SNOMED!360491009 Congenital atresia of jejunum
+SNOMED!36118008 Pneumothorax
+SNOMED!36228007 Examining eye
+SNOMED!363225006 Neonatal respiratory system disorder
+SNOMED!36440009 Poor weight gain
+SNOMED!365856005 Screening finding
+SNOMED!365929007 Consciousness and/or awareness finding
+SNOMED!36649002 Clonus
+SNOMED!367403001 Pyloric stenosis
+SNOMED!367494004 Premature birth of newborn
+SNOMED!367498001 Seasonal allergic rhinitis
+SNOMED!371090009 Cholestasis of parenteral nutrition
+SNOMED!371116000 Posthemorrhagic hydrocephalus
+SNOMED!371132002 Gastroesophageal reflux disease with hiatal hernia
+SNOMED!371736008 At risk for aspiration
+SNOMED!373587001 Chiari malformation type II
+SNOMED!373895009 Acute respiratory distress
+SNOMED!373909009 Choking sensation
+SNOMED!373945007 Pericardial effusion
+SNOMED!37992001 Pancreatic insufficiency
+SNOMED!38086007 Laryngomalacia
+SNOMED!38101003 Longsightedness
+SNOMED!38206000 Exceptionally large at birth                                                                                                                                                                                                            19-OCT-2016 13:19:47<$>
+SNOMED!38341003 Hypertensive disorder
+SNOMED!38353004 Congenital porencephaly
+SNOMED!386584007 Adrenal cortical hypofunction
+SNOMED!386617003 Digestive system finding
+SNOMED!386661006 Fever
+SNOMED!386689009 Hypothermia
+SNOMED!386789004 Eosinophil count raised
+SNOMED!386813002 Abnormal breathing
+SNOMED!387712008 Neonatal jaundice
+SNOMED!389087006 Hypoxemia
+SNOMED!389145006 Allergic asthma
+SNOMED!39104002 Illness
+SNOMED!391987005 Pectus excavatum
+SNOMED!39302008 Congenital coloboma of retina
+SNOMED!39355002 Hypernatremia
+SNOMED!395084008 Discussed with carer
+SNOMED!395507008 Premature infant
+SNOMED!396232000 Inguinal hernia
+SNOMED!396347007 Umbilical hernia
+SNOMED!397932003 Talipes equinovarus
+SNOMED!397940009 Victim of child abuse
+SNOMED!398152000 Poor muscle tone
+SNOMED!398171003 Hearing examination
+SNOMED!399054005 Exotropia
+SNOMED!399122003 Swallowing problem
+SNOMED!399216004 D - transposition of the great vessels
+SNOMED!400210000 Hemangioma
+SNOMED!40068008 Hydroureteronephrosis
+SNOMED!405752007 Congenital atrial septal defect
+SNOMED!407151008 Increased lead level
+SNOMED!40739000 Can't get food down
+SNOMED!407669000 Magnetic resonance imaging of brain abnormal
+SNOMED!4088009 Acquired hydrocephalus
+SNOMED!408847006 Retinopathy of prematurity stage 1 - demarcation line
+SNOMED!408848001 Retinopathy of prematurity stage 2 - intraretinal ridge
+SNOMED!408849009 Retinopathy of prematurity stage 3 - ridge with extraretinal fibrovascular proliferation
+SNOMED!409033001 Altered growth and development
+SNOMED!40930008 Hypothyroidism
+SNOMED!409622000 Respiratory failure
+SNOMED!409623005 Respiratory insufficiency
+SNOMED!409673008 ALT (SGPT) level raised
+SNOMED!409793007 Antimicrobial resistant bacteria
+SNOMED!41040004 Complete trisomy 21 syndrome
+SNOMED!410430005 Cardiorespiratory arrest
+SNOMED!410620009 Well child visit
+SNOMED!4120002 Bronchiolitis
+SNOMED!413235002 PEG externally removable
+SNOMED!413532003 Anemia due to blood loss
+SNOMED!413808003 Cerebral ventriculomegaly
+SNOMED!413839001 Chronic lung disease
+SNOMED!414285001 Food allergy
+SNOMED!41432000 Laryngismus stridulus
+SNOMED!414667000 Meningomyelocele
+SNOMED!414819007 Neonatal Abstinence Syndrome
+SNOMED!415297005 Retinopathy of prematurity
+SNOMED!41546002 Disease caused by Rhinovirus
+SNOMED!41581000 Muscular hypertonicity
+SNOMED!416010008 Hypospadias
+SNOMED!416113008 Disorder characterized by fever
+SNOMED!416377005 Port-wine stain of skin
+SNOMED!416824008 Cavernous hemangioma
+SNOMED!416920000 Obstruction of lacrimal canaliculus
+SNOMED!416940007 Past history of procedure
+SNOMED!41729002 Horseshoe kidney
+SNOMED!417357006 Sickling disorder due to hemoglobin S
+SNOMED!4191007 Scaphycephaly
+SNOMED!421784001 Carnitine deficiency
+SNOMED!422400008 Vomiting
+SNOMED!422588002 Aspiration pneumonia
+SNOMED!422773005 Hemodynamic instability
+SNOMED!424525001 Prenatal care
+SNOMED!425525006 Allergy to dairy product
+SNOMED!425805004 Cognitive developmental delay
+SNOMED!426881004 Developmental delay in feeding
+SNOMED!4287008 Chordee of penis
+SNOMED!428794004 Fistula
+SNOMED!428890003 History of orchidopexy
+SNOMED!429975007 Oral phase dysphagia
+SNOMED!430099007 Gross motor development delay
+SNOMED!43064006 Hydronephrosis
+SNOMED!430974008 Compartment syndrome of abdomen due to trauma
+SNOMED!43116000 Eczema
+SNOMED!431309003 Acute urinary tract infection
+SNOMED!431335002 Neonatal hypoxemia
+SNOMED!431395004 Vertebral abnormalities, anal atresia, cardiac abnormalities, tracheo-esophageal fistula, renal anomalies, limb defects syndrome
+SNOMED!431855005 Chronic kidney disease stage 1
+SNOMED!432415000 Methicillin resistant staphylococcus aureus carrier
+SNOMED!432788009 Pediatric failure to thrive
+SNOMED!433144002 Chronic kidney disease stage 3
+SNOMED!433147009 Combined visual and hearing impairment
+SNOMED!433237003 Cholestasis in newborn
+SNOMED!433476000 Failure to thrive in infant
+SNOMED!43692000 Influenzal acute upper respiratory infection
+SNOMED!43876007 Situs inversus
+SNOMED!438998000 Family history of HIV
+SNOMED!440181000 Apparent life-threatening event
+SNOMED!44057004 Conductive hearing loss
+SNOMED!441458001 Platelet count below reference range at birth
+SNOMED!44247006 Prematurity of fetus
+SNOMED!442618008 Abnormal finding on evaluation procedure
+SNOMED!443805006 Auditory neuropathy spectrum disorder
+SNOMED!444316004 Seasonal allergy
+SNOMED!444486008 Exposure to Hepatitis B virus
+SNOMED!444563003 Exposure to Hepatitis C virus
+SNOMED!444860006 Lumbosacral meningomyelocele
+SNOMED!444862003 Pediatric BMI greater than or equal to 95th percentile
+SNOMED!444932008 Dependence on ventilator
+SNOMED!445355009 Refractory epilepsy
+SNOMED!447841007 Sepsis due to Candida
+SNOMED!447894003 Sepsis due to Staphylococcus
+SNOMED!44808001 Conduction disorder of the heart
+SNOMED!448227009 X-linked periventricular heterotopia
+SNOMED!448417001 Sepsis due to Staphylococcus aureus
+SNOMED!448419003 Sepsis due to Streptococcus agalactiae
+SNOMED!448516008 Double outlet right ventricle with doubly committed ventricular septal defect and pulmonary stenosis
+SNOMED!448564004 Pulmonary atresia
+SNOMED!448812000 Sepsis due to methicillin resistant Staphylococcus aureus
+SNOMED!449125001 Congenital stenosis of pulmonary artery
+SNOMED!449505005 Sepsis due to coagulase negative Staphylococcus
+SNOMED!449826002 Phimosis
+SNOMED!450451007 Pediatric BMI 85th percentile to less than 95th percentile                                                                                                                                                                              19-OCT-2016 13:39:43<$>
+SNOMED!458422009 Malrotation of intestine with midgut volvulus
+SNOMED!459168005 Monochorionic diamniotic twin pregnancy
+SNOMED!46068001 Newborn
+SNOMED!46621007 Atelectasis
+SNOMED!46689006 Hypertrophy of tonsils
+SNOMED!46775006 Respiratory distress syndrome in the newborn
+SNOMED!47032000 Congenital hydrocephalus
+SNOMED!47100003 Anemia of prematurity
+SNOMED!47206001 Long tubular intestinal duplication
+SNOMED!47268002 Reflux
+SNOMED!473359008 Right atrial thrombus
+SNOMED!473424007 Hearing loss of left ear
+SNOMED!473441009 CLABSI - Central line associated bloodstream infection
+SNOMED!4783006 Maternal diabetes mellitus with hypoglycemia affecting fetus OR newborn
+SNOMED!48082007 Anomaly of chromosome pair 8
+SNOMED!48249002 Congenital anisocoria
+SNOMED!48638002 Nephrocalcinosis
+SNOMED!48813009 Lymphocytopenia
+SNOMED!48867003 Bradycardia
+SNOMED!49415001 Slow feeding in newborn
+SNOMED!49727002 Cough
+SNOMED!49827005 Disto-occlusion of teeth
+SNOMED!50043002 Disorder of respiratory system
+SNOMED!501000119108 Bacteremia caused by Gram-negative bacteria
+SNOMED!50279003 Metabolic bone disease
+SNOMED!50711007 Viral hepatitis C
+SNOMED!5102002 Congenital absence of corpus callosum
+SNOMED!51118003 Atresia of duodenum
+SNOMED!51221005 Chronic contact dermatitis
+SNOMED!51500006 Complete trisomy 18 syndrome
+SNOMED!52767006 Neonatal hypoglycemia
+SNOMED!52781008 Congenital hip dysplasia
+SNOMED!5291005 Hypocalcemia
+SNOMED!5294002 Developmental disorder
+SNOMED!5370000 Atrial flutter
+SNOMED!53827007 Excessive salivation
+SNOMED!53973008 Genetic treatments and procedures
+SNOMED!54203008 Bronchomalacia
+SNOMED!54404000 Cervical radiculopathy
+SNOMED!5441008 Tinea capitis
+SNOMED!54840006 FTT
+SNOMED!5505005 Acute bronchiolitis
+SNOMED!55434001 Hydrocoele
+SNOMED!55735004 RSV - Respiratory syncytial virus infection
+SNOMED!55929007 Feeling irritable
+SNOMED!55999004 Encephalocele
+SNOMED!56018004 Wheezy
+SNOMED!56108007 Pelvic kidney
+SNOMED!56265001 Heart disease
+SNOMED!563001 Nystagmus
+SNOMED!56713002 ETD - Eustachian tube dysfunction
+SNOMED!56786000 PVS - Pulmonary valve stenosis
+SNOMED!56905009 Perforation of intestine
+SNOMED!57054005 AMI - Acute myocardial infarction
+SNOMED!57089007 Respiratory syncytial virus bronchiolitis
+SNOMED!57190000 Myopia
+SNOMED!57219006 Craniosynostosis syndrome
+SNOMED!57231008 Acute pericardial effusion
+SNOMED!57284007 Severe birth asphyxia
+SNOMED!5758002 Bacteremia
+SNOMED!57891003 Term infant
+SNOMED!58126003 Postoperative wound infection
+SNOMED!58150001 Fracture of clavicle
+SNOMED!58703003 Postpartum depression
+SNOMED!58762006 Encephalomalacia
+SNOMED!59033006 Anomaly of chromosome pair 18
+SNOMED!59403008 Premature birth of newborn female
+SNOMED!59494005 Congenital septal defect of heart
+SNOMED!59527008 Congenital cytomegalovirus infection
+SNOMED!60046008 Pleural effusion
+SNOMED!60125001 Perinatal interstitial emphysema
+SNOMED!60234000 Aortic valve regurgitation
+SNOMED!609328004 Allergic disposition                                                                                                                                                                                                                    19-OCT-2016 13:17:44<$>
+SNOMED!61401005 Gastric hemorrhage
+SNOMED!61578001 Gastrointestinal alteration
+SNOMED!61582004 Allergic rhinitis
+SNOMED!62067003 Hypoplastic left heart syndrome
+SNOMED!62315008 Diarrhea
+SNOMED!62718007 Dribbling from mouth
+SNOMED!6285003 Tachyarrhythmia
+SNOMED!63039003 Influenza with respiratory manifestation other than pneumonia
+SNOMED!63042009 Congenital atresia of tricuspid valve
+SNOMED!63253009 Congenital rectovestibular fistula
+SNOMED!63567004 Uranostaphyloschisis
+SNOMED!63607006 Perinatal pneumomediastinum
+SNOMED!64531003 Nasal discharge
+SNOMED!6456007 Supraventricular tachycardia
+SNOMED!64635004 Congenital nystagmus
+SNOMED!65147003 Twin pregnancy
+SNOMED!65363002 Otitis media
+SNOMED!65399007 Histiocytosis X
+SNOMED!65710008 Acute respiratory failure
+SNOMED!66071002 Type B viral hepatitis
+SNOMED!66931009 Hypercalcemia
+SNOMED!66948001 Cleft palate with cleft lip
+SNOMED!66978005 Hypermagnesemia
+SNOMED!66987001 Congenital lobar emphysema
+SNOMED!67198005 Paroxysmal supraventricular tachycardia
+SNOMED!67231000119106 Personal history of ECMO
+SNOMED!67278007 Congenital stenosis of pulmonary valve
+SNOMED!67406007 Disseminated intravascular coagulation
+SNOMED!67531005 Spina bifida
+SNOMED!67569000 Bronchopulmonary dysplasia of newborn
+SNOMED!67750007 Ineffective airway clearance
+SNOMED!67782005 Adult respiratory distress syndrome
+SNOMED!67787004 Tongue tie
+SNOMED!68052005 Pulmonary aspiration
+SNOMED!68235000 Nasal congestion
+SNOMED!68359008 Congenital hemivertebra
+SNOMED!68550008 Disturbance of temperature regulation of newborn
+SNOMED!68581004 Hypoglycemia of childhood
+SNOMED!68716001 Situs inversus abdominalis
+SNOMED!68913001 alpha Thalassemia
+SNOMED!69800000 Neonatal hepatitis
+SNOMED!698065002 Acid reflux
+SNOMED!698367001 History of intestinal transplant
+SNOMED!69840006 Effective breastfeeding
+SNOMED!70070008 Torticollis
+SNOMED!70142008 Atrial septal defect
+SNOMED!703300001 Hypoxic ischemic encephalopathy
+SNOMED!70407001 Stridor
+SNOMED!70499005 Congenital dermal sinus
+SNOMED!70534000 Occult spinal dysraphism sequence
+SNOMED!70611002 Perinatal intraventricular hemorrhage
+SNOMED!70693003 At risk for impaired skin integrity
+SNOMED!709044004 Chronic kidney disease
+SNOMED!70944005 Impaired gas exchange
+SNOMED!70995007 Pulmonary hypertension
+SNOMED!71057007 Infection due to Escherichia coli
+SNOMED!71186008 Croup
+SNOMED!71419002 Bilious vomiting
+SNOMED!71457002 Oropharyngeal dysphagia
+SNOMED!71620000 Fracture of femur
+SNOMED!72310004 Circumcision
+SNOMED!72544005 Gestation period, 25 weeks
+SNOMED!72552008 Feeding problems in newborn
+SNOMED!7305005 Coarctation of aorta
+SNOMED!73430006 Sleep apnea
+SNOMED!73749009 Neonatal jaundice associated with preterm delivery
+SNOMED!74142004 Feeding disorder of infancy OR early childhood
+SNOMED!74345006 Congenital chromosomal disease
+SNOMED!74390002 Ventricular pre-excitation with arrhythmia
+SNOMED!7484005 Double outlet right ventricle
+SNOMED!74877002 Congenital anomaly of spine
+SNOMED!7550008 Transitory tachypnea of newborn
+SNOMED!76050008 Hemoglobin C trait
+SNOMED!76074006 Agenesis of right lung
+SNOMED!76175005 Glutaric aciduria, type 1
+SNOMED!77128003 Branchial arch syndrome
+SNOMED!77427003 Activity intolerance
+SNOMED!77450009 Unclassified epileptic seizures
+SNOMED!78048006 Candidiasis
+SNOMED!78164000 Feeding problem
+SNOMED!78275009 Obstructive sleep apnea syndrome
+SNOMED!78314001 Osteogenesis imperfecta
+SNOMED!78745000 Urticaria pigmentosa
+SNOMED!78812008 Neonatal dehydration
+SNOMED!78868004 Chronic mucoid otitis media
+SNOMED!7890003 Contracture of joint
+SNOMED!7919002 Impaired skin integrity
+SNOMED!79740000 Candidiasis of mouth
+SNOMED!80281008 Cleft lip
+SNOMED!80327007 Serous otitis media
+SNOMED!80394007 Hyperglycemia
+SNOMED!80601004 At risk for activity intolerance
+SNOMED!81308009 Encephalopathy
+SNOMED!81780002 Beckwith-Wiedemann syndrome
+SNOMED!82062003 Congenital hydrocele
+SNOMED!82525005 Multiple congenital cysts of kidney
+SNOMED!82649003 Astigmatism
+SNOMED!82696006 Neonatal jaundice due to delayed conjugation from breast milk inhibitors
+SNOMED!82729001 Caput succedaneum
+SNOMED!82971005 Impaired mobility
+SNOMED!83330001 Patent ductus arteriosus
+SNOMED!83546008 Congenital anomaly of breast
+SNOMED!83799000 Corrected transposition of great vessels
+SNOMED!8390008 Routine care of newborn
+SNOMED!84132007 Gestation period, 35 weeks
+SNOMED!84869007 Musculoskeletal symptom
+SNOMED!8510008 Reduced mobility
+SNOMED!85502002 Bilateral inguinal hernia
+SNOMED!85623003 Thermoregulation impairment
+SNOMED!85777005 Dacryocystitis
+SNOMED!85836000 Congenital duodenal obstruction due to annular pancreas
+SNOMED!85898001 Cardiomyopathy
+SNOMED!86092005 Cystic fibrosis with meconium ileus
+SNOMED!86094006 Chronic rhinitis
+SNOMED!86252004 Agenesis of pulmonary artery
+SNOMED!86268005 Achondroplasia
+SNOMED!86299006 TOF - Tetralogy of Fallot
+SNOMED!86414002 Joint contracture of hand
+SNOMED!86708008 Seborrhea
+SNOMED!86986002 Hemolytic disease of fetus OR newborn due to RhD isoimmunization
+SNOMED!87132004 Opioid withdrawal
+SNOMED!87476004 Neonatal seizures
+SNOMED!87979003 Cleft palate
+SNOMED!88202002 Alteration in nutrition: less than body requirements
+SNOMED!88223008 Secondary pulmonary hypertension
+SNOMED!88425004 Congenital anomaly of nervous system
+SNOMED!88594005 Herpes simplex
+SNOMED!88610006 Heart murmur
+SNOMED!88797001 Complication of surgical procedure
+SNOMED!89166001 Congenital anomaly of liver
+SNOMED!89700002 Shoulder girdle dystocia
+SNOMED!90688005 Chronic renal failure syndrome
+SNOMED!90708001 Kidney disease
+SNOMED!91175000 Seizure
+SNOMED!91487003 Diaper rash
+SNOMED!91923005 AIDS virus infection associated with pregnancy
+SNOMED!91930004 Allergy to eggs
+SNOMED!921000119109 Vaccine refused by parent
+SNOMED!93030006 Splenic agenesis
+SNOMED!9326001 Conjugated hyperbilirubinemia
+SNOMED!93390002 Coloboma of eye
+SNOMED!9414007 Impaired glucose tolerance
+SNOMED!94147001 Mediastinal mass
+SNOMED!95304000 Thoracic hemivertebra
+SNOMED!95434006 Tracheomalacia
+SNOMED!95435007 Tracheoesophageal fistula
+SNOMED!95468000 Congenital bronchomalacia
+SNOMED!95556007 Cholestatic hepatitis
+SNOMED!95575002 PUJ - Pelviureteric obstruction
+SNOMED!95581005 Bilateral hydronephrosis
+SNOMED!95588004 Obstruction of urethra
+SNOMED!95606005 Maternal drug exposure
+SNOMED!95619009 Neonatal respiratory failure
+SNOMED!95627000 Fever of the newborn
+SNOMED!95883001 Bacterial meningitis
+SNOMED!9651007 Long QT syndrome
+SNOMED!9763007 Expiratory wheezing
+SNOMED!991000119106 Reactive airway disease
+Number of distinct codes:
+732
